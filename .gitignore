@@ -1,6 +1,5 @@
 # Python
-.mypy_cache/
-
+.Venv
 # Other Files
 .env
 .vscode/
